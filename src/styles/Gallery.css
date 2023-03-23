@@ -1,0 +1,7 @@
+.Gallery{
+    padding: 20px;
+}
+
+.Gallery img:hover{
+    width: 17%;
+}

@@ -1,0 +1,7 @@
+.FavoriteSites a:visited{
+    color: #86ed86;
+  }
+  
+.FavoriteSites a:hover{
+    color: rgb(255, 109, 109);
+}

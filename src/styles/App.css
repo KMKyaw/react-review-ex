@@ -1,0 +1,13 @@
+.App{
+  text-align: center;
+}
+
+li{
+  padding: 0;
+  list-style-type: none;
+}
+ul{
+  list-style-position: inside;
+  padding-left: 0;
+  margin-bottom: 20px;
+}
